@@ -14,7 +14,7 @@ This build has built in support for:
 ```npm i vedit``` or ```yarn add vedit```
 
 ### USAGE
-Example Editor.vue file:
+How to use from an example Editor.vue file:
 ```html
 <template>
   <div class="editor">
@@ -35,7 +35,7 @@ export default {
   components: { Vedit },
   created () {
     // Example upload client
-    this.client = new Client({ url: 'example.com/upload' })
+    this.client = new Client({ url: 'http://example.com/upload' })
   },
   methods: {
     // Everytime you write something you can read the value of the editor here

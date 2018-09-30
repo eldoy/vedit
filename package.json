@@ -5,6 +5,7 @@
   "author": "fugroup <vidar@fugroup.net>",
   "license": "MIT",
   "private": false,
+  "repository": "https://github.com/fugroup/vedit",
   "main": "dist/vedit.umd.js",
   "module": "dist/vedit.esm.js",
   "unpkg": "dist/vedit.min.js",
