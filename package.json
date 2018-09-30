@@ -1,6 +1,6 @@
 {
   "name": "vedit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue Editor Component based on Quill.js",
   "author": "fugroup <vidar@fugroup.net>",
   "license": "MIT",
